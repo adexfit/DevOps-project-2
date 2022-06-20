@@ -1,3 +1,1 @@
-DNS name of load balancer
-
-http://udagr-WebAp-15IR5P55E5EXU-1780607356.us-east-1.elb.amazonaws.com
+In this project, I deployed a highly available web app Udagram using AWS cloud formation scrript.
